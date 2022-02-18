@@ -1,0 +1,5 @@
+- 👋 Hi yeoleobun, I’m [@getdrakor](https://github.com/getdrakor)
+- 👀 I’m interested in entertainment
+- 🚀 I’m currently go public
+- 💞️ I’m looking to collaborate on [GetDrakor](https://getdrakor.gatsbyjs.io/request)
+- 📫 How to reach me [Telegram](https://t.me/getdrakor)
